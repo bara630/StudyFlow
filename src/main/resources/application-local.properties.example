@@ -1,0 +1,8 @@
+# Copy this file to application-local.properties and fill in YOUR real values.
+# application-local.properties is gitignored so your password stays private.
+
+# Your Gmail address (the one that SENDS reminders)
+spring.mail.username=your-real-email@gmail.com
+
+# Google App Password (16 characters, no spaces) — NOT your normal Gmail password
+spring.mail.password=your-app-password-here
